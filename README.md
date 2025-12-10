@@ -32,4 +32,3 @@ Google Cloud Platform->https://console.cloud.google.com/welcome?hl=zh-TW&project
 smeshariks集料集->https://universe.roboflow.com/khalina/smeshariks/dataset/2  
 
 ![image](info.jpg)
-
