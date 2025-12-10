@@ -2,8 +2,7 @@
 https://ai.google.dev/edge/mediapipe/framework/getting_started/troubleshooting?hl=zh-tw  
 pip install msvc-runtime  #直接安裝在本機  
 
--虛擬環境安裝-  
-  
+-虛擬環境安裝-    
 1->環境變數  
 C:\Users\C9\AppData\Local\Programs\Python\Python312\Scripts  
 C:\Users\C9\AppData\Local\Programs\Python\Python312  
