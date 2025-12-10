@@ -34,31 +34,3 @@ smeshariks集料集->https://universe.roboflow.com/khalina/smeshariks/dataset/2
 
 ![image](info.jpg)
 
-
--目錄-  
->01->Tesseract-OCR、EasyOCR、PaddleOCR with OpenCV  
->02->Mediapipe  
->>0201->image_classification  
->>0202->image_embedder  
->>0203->image_segmentation  
->>0204->interactive_segmenter  
->>0205->Object Detection  
->>0206->Pose Landmarks Detection  
-
->03->customization  
->04->tabula-py  
->05->Mediapipe  
->>0501->face_detector  
->>0502->face_landmarker  
->>0503->face_stylizer  
->>0504->Gesture Recognizer  
->>0505->hand_landmarker  
->>0506->text_classifier  
->>0507->Pose Landmarks from video  
-
->06->save to sqlite  
->07->save to google sheets  
->08->save to webpage  
->09->save to webpage  
->10->save to webpage  
->11->save to linebot  
