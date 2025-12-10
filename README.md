@@ -20,9 +20,7 @@ activate
 virtualenv->virtualenv -p python3.10 XXX  
 影片播放軟體->https://potplayer.daum.net/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
-Tesseract->  
-https://tesseract-ocr.github.io/tessdoc/Installation.html  
-https://github.com/UB-Mannheim/tesseract/wiki  
+Tesseract->https://tesseract-ocr.github.io/tessdoc/Installation.html  
 EasyOCR->https://github.com/JaidedAI/EasyOCR  
 Mediapipe->https://github.com/googlesamples/mediapipe  
 line_develop->https://developers.line.biz/zh-hant/  
