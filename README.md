@@ -17,6 +17,7 @@ virtualenv 取一個名稱
 activate  
   
 -相關-  
+
 virtualenv->virtualenv -p python3.10 XXX  
 影片播放軟體->https://potplayer.daum.net/  
 sqlitebrowser->https://sqlitebrowser.org/dl/  
