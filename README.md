@@ -1,4 +1,6 @@
-https://drive.google.com/file/d/1pW9xIPKuXMOPGCSldUG99aR03kexQ2YI/view?usp=sharing  
+Rock-paper-scissors.v2i.yolov11.zip  
+https://drive.google.com/file/d/1pW9xIPKuXMOPGCSldUG99aR03kexQ2YI/view?usp=drive_link  
+
 
 
 
