@@ -1,15 +1,6 @@
 Rock-paper-scissors.v2i.yolov11.zip  
 https://drive.google.com/file/d/1pW9xIPKuXMOPGCSldUG99aR03kexQ2YI/view?usp=drive_link  
-
-
-
-
-
-
-
-
-
-
+https://drive.google.com/file/d/12gcW7J2s4YC9puBAvJ6-9Z9Jw4327oBw/view?usp=drive_link  
 
 
 -Windows 上的 Python DLL 載入失敗-  
