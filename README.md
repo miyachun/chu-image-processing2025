@@ -1,3 +1,12 @@
+
+
+  File "C:\Users\C9\Documents\chu-image-processing2025-main\02\03.py", line 43, in <module>  
+    cv2.imshow('My Image', output_image)  
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window_w32.cpp:124: error: (-215:Assertion failed) bmi && width >= 0 && height >= 0 && (bpp == 8 || bpp == 24 || bpp == 32) in function 'FillBitmapInfo'  
+
+
+
+
 02  
 https://drive.google.com/file/d/1USgT6yMiQPQQobTJ0nNtT3bfICf6x0nr/view?usp=drive_link  
 05  
